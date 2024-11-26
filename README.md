@@ -4,7 +4,7 @@ Final Project for API Testing Automation with Postman in Sanbercode as Learning 
 ## Informasi Dasar
 Aplikasi API Testing ini adalah sebuah Final Project dari `Sanbercode` dengan topik `Automation API Testing`, Task berfokus pada bagimana cara kerja API dengan melakukan testing pada semua end Point, yang dibuat oleh:
 
-Nama		                 : `Mohammad Nurdiansyah`\
+Nama		                 : `Mohammad Nurdiansyah`
 
 ---
 
@@ -12,7 +12,10 @@ Nama		                 : `Mohammad Nurdiansyah`\
 
 ## Requirement yang harus disipkan sebelum running aplikasi ini adalah :
 - Menggunakan `Postman`
-- Testing dilakukan pada End-Point API yang disediakan oleh [`Simple Books`](https://bronzed-hip-506.notion.site/Books-API-Documentation-136749f8f5eb4db68904205894009613)
+- Testing dilakukan pada End-Point API yang disediakan oleh `Simple Books`(https://bronzed-hip-506.notion.site/Books-API-Documentation-136749f8f5eb4db68904205894009613)
+
+# Screenshot
+Jika ingin melihat screenshot hasil testing silahkan klik di `Screenshots`(https://github.com/nurdinsh/Postman-FinalProjectAPI-Sanbercode/tree/main/ScreenShots)
 
 # End Point
 Keseluruhan Endpoint pada Reqress diuji pada project ini adalah :
