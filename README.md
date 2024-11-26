@@ -1,5 +1,5 @@
 # Postman-FinalProjectAPI-Sanbercode
-Final Project for Automation Testing with Postman in Sanbercode as Learning Partner
+Final Project for API Testing Automation with Postman in Sanbercode as Learning Partner
 
 ## Informasi Dasar
 Aplikasi API Testing ini adalah sebuah Final Project dari `Sanbercode` dengan topik `Automation API Testing`, Task berfokus pada bagimana cara kerja API dengan melakukan testing pada semua end Point, yang dibuat oleh:
